@@ -1,4 +1,4 @@
- <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 
 #define STACK 0

@@ -1,4 +1,5 @@
                                                                                 
+/** 
  * _isnumber - checks if a string is composed of numbers                           
  * @s: string                                                                      
  *                                                                                 

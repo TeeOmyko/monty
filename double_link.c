@@ -1,10 +1,9 @@
-                                                                                  
-/**                                                                                
+/**                               
  * delete_node_index - deletes the node at index                                   
  * @head: pointer to head of doubly linked list                                    
  * @index: index to look for                                                       
  *                                                                                 
- * Return: 1 if it succeeded, -1 if it failed                                      
+ * Return: 1 if it succeeded, -1 if it failed                              
  */                                                                                
 int delete_node_index(stack_t **head, unsigned int index)                          
 {                                                                                  
