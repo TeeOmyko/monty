@@ -14,7 +14,7 @@ int _isnumber(char *s)
                 s++;                                                               
                                                                                    
         for (; *s; s++)                                                            
-                if (!isdigit(*s))                                                  
+                if (!_isnumber(*s))                                                  
                         return (0);                                                
         return (1);                                                                
                                                                                    

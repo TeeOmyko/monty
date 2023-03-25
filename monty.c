@@ -21,4 +21,4 @@ int main(int ac, char **av)
     /* recordar liberar memorias */
 	free_dlistint(stack);
 	return (0);
-}i
+}
