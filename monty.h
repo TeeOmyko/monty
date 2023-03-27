@@ -1,4 +1,4 @@
-ifndef _MONTY_
+#ifndef _MONTY_
 #define _MONTY_
 
 /* Constants */

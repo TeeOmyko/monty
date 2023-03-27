@@ -1,4 +1,4 @@
-include "monty.h"
+#include "monty.h"
 
 /**
   * pick_func - Select the function that relates to the Monty instruction
